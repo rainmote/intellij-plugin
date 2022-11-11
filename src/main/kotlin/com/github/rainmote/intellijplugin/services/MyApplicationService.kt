@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rainmote.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rainmote.intellijplugin.MyBundle
 
 class MyApplicationService {
 
